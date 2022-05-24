@@ -1,6 +1,6 @@
 {
     "name": "fx2lib",
-    "version": "0.2",
+    "version": "0.3-dev",
     "description": "Library routines for creating firmware for the Cypress FX2 (CY7C68013 and variants) with SDCC",
     "keywords": "fx2lib, ezusb, mcs51",
     "repository":
